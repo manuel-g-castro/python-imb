@@ -1,4 +1,4 @@
-#imb
+# python-imb
 
 The Immersed Boundary Method, imb, is an algorithm to solve Navier-Stokes equations with the interaction of _fully immersed elastic 
 structures_. 
